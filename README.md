@@ -2,4 +2,4 @@
 
 + This repository contains the source code for the DBDev IT website
 
-- If you want to visit site, move to https://dbdev-git.github.io
+- If you want to visit site, move to https://dbdev-it.github.io
